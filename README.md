@@ -11,3 +11,5 @@ How can be a file staged and not staged at the same time?
 git diff can be a great tool.
 
 Especially with the --staged option.
+
+I am testing the git commit -a option now.
