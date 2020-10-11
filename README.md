@@ -13,3 +13,5 @@ git diff can be a great tool.
 Especially with the --staged option.
 
 I am testing the git commit -a option now.
+
+What has just happened???
